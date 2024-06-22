@@ -1,4 +1,5 @@
-data:
+data: data/raw/trees/Birch/birch_13.las
+data/raw/trees/Birch/birch_13.las:
 	poetry run kaggle datasets download -p data --unzip sentinel3734/uav-point-clouds-of-individual-trees
 
 setup-python:
