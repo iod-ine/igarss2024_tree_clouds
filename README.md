@@ -1,4 +1,4 @@
-[IEEE Xplore](https://ieeexplore.ieee.org/document/10641061/) | [Dataset](https://www.kaggle.com/datasets/sentinel3734/uav-point-clouds-of-individual-trees) | [Rendered paper](https://iod-ine.github.io/igarss2024_tree_clouds/paper.html)
+[IEEE Xplore](https://ieeexplore.ieee.org/document/10641061/) | [Dataset](https://www.kaggle.com/datasets/sentinel3734/uav-point-clouds-of-individual-trees) | [Rendered paper](https://iod-ine.github.io/igarss2024_tree_clouds/paper.html) | [Presentation PDF](https://github.com/iod-ine/igarss2024_tree_clouds/blob/main/presentation/igarss-2024-ivan-dubrovin-3846.pdf)
 
 ---
 
